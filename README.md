@@ -1,3 +1,5 @@
-# hello-world
+# Hello World
 
-This thing is created only to see how this stuff works.
+Ovo je moj prvi GitHub repository.
+
+Učim kako GitHub funkcioniše i kako mogu da ga koristim za svoje projekte.
